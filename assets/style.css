@@ -72,16 +72,26 @@ header {
 /* main-section */
 .gallerySection {
   margin-left: 150px;
-  border: solid 2px red;
+  /* border: solid 2px red; */
 }
 .galleryHeadline {
   font-size: 18px;
-  border: solid 2px red;
+  /* border: solid 2px red; */
+  margin-bottom: 25px;
 }
 .galleryHeadlineText {
   font-size: 15px;
-  border: solid 2px red;
+  /* border: solid 2px red; */
 }
 .gallery {
-  border: solid 2px red;
+  /* border: solid 2px red; */
+  width: 60vw;
+  margin-left: 150px;
+}
+
+.imgRow {
+  margin-top: 70px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 150px;
 }
