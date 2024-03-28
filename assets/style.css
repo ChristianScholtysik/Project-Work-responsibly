@@ -162,3 +162,13 @@ header {
   display: flex;
   justify-content: center;
 }
+
+.imgShadow:hover {
+  box-shadow: 0 0 30px #666666;
+}
+.listItem:hover {
+  text-shadow: 0 0 10px #666666;
+}
+.iconsShadow:hover {
+  box-shadow: 0 0 10px #666666;
+}
